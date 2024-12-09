@@ -1,5 +1,7 @@
 # NumberFlow Display
- A Directus extension that displays a NumberFlow component.
+A Directus extension that displays a NumberFlow component.
+
+Based off the incredible work of [NumberFlow](https://github.com/barvian/number-flow) by [barvian](https://github.com/barvian).
 
 Screenshot:
 ![screenshot](https://raw.githubusercontent.com/daltonsutton/directus-extension-numberflow/main/screenshots/numberflow.gif)
