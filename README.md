@@ -1,4 +1,4 @@
-# Numberflow Display
+# NumberFlow Display
  A Directus extension that displays a NumberFlow component.
 
 Screenshot:
