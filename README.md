@@ -2,7 +2,7 @@
  A Directus extension that displays a NumberFlow component.
 
 Screenshot:
-![screenshot](https://raw.githubusercontent.com/daltonsutton/directus-extension-numberflow-display/main/screenshots/numberflow.gif)
+![screenshot](https://raw.githubusercontent.com/daltonsutton/directus-extension-numberflow/main/screenshots/numberflow.gif)
 
 ## Installation
 
