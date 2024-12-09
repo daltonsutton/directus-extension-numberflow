@@ -19,7 +19,7 @@
 	},
 	"homepage": "https://github.com/daltonsutton/directus-extension-numberflow-display",
 	"icon": "extension",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"keywords": [
 		"numberflow",
 		"directus",
