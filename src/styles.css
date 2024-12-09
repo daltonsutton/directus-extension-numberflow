@@ -1,0 +1,23 @@
+number-flow-vue {
+    font-weight: bold;
+    color: var(--theme--foreground) !important;
+}
+
+/* number-flow-vue::part(currency) {
+    margin-right: .0625em;
+    font-weight: normal;
+    color: var(--theme--foreground-subdued) !important;
+} */
+
+number-flow-vue::part(prefix) {
+    margin-right: .0625em;
+    font-weight: normal;
+    color: var(--theme--foreground-subdued) !important;
+}
+
+number-flow-vue::part(suffix) {
+    margin-left: .0625em;
+    font-weight: normal;
+    font-size: 0.85em;
+    color: var(--theme--foreground-subdued) !important;
+}
