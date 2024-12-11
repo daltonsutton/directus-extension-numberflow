@@ -42,176 +42,176 @@ export default {
 					label: 'Currency Type',
 					choices: [
 						{
-							"text": "USD (US Dollar)",
-							"value": "USD"
+							'text': 'USD (US Dollar)',
+							'value': 'USD'
 						},
 						{
-							"text": "EUR (Euro)",
-							"value": "EUR"
+							'text': 'EUR (Euro)',
+							'value': 'EUR'
 						},
 						{
-							"text": "JPY (Japanese Yen)",
-							"value": "JPY"
+							'text': 'JPY (Japanese Yen)',
+							'value': 'JPY'
 						},
 						{
-							"text": "GBP (British Pound)",
-							"value": "GBP"
+							'text': 'GBP (British Pound)',
+							'value': 'GBP'
 						},
 						{
-							"text": "AUD (Australian Dollar)",
-							"value": "AUD"
+							'text': 'AUD (Australian Dollar)',
+							'value': 'AUD'
 						},
 						{
-							"text": "CAD (Canadian Dollar)",
-							"value": "CAD"
+							'text': 'CAD (Canadian Dollar)',
+							'value': 'CAD'
 						},
 						{
-							"text": "CHF (Swiss Franc)",
-							"value": "CHF"
+							'text': 'CHF (Swiss Franc)',
+							'value': 'CHF'
 						},
 						{
-							"text": "CNY (Chinese Yuan)",
-							"value": "CNY"
+							'text': 'CNY (Chinese Yuan)',
+							'value': 'CNY'
 						},
 						{
-							"text": "SEK (Swedish Krona)",
-							"value": "SEK"
+							'text': 'SEK (Swedish Krona)',
+							'value': 'SEK'
 						},
 						{
-							"text": "NZD (New Zealand Dollar)",
-							"value": "NZD"
+							'text': 'NZD (New Zealand Dollar)',
+							'value': 'NZD'
 						},
 						{
-							"text": "KRW (South Korean Won)",
-							"value": "KRW"
+							'text': 'KRW (South Korean Won)',
+							'value': 'KRW'
 						},
 						{
-							"text": "SGD (Singapore Dollar)",
-							"value": "SGD"
+							'text': 'SGD (Singapore Dollar)',
+							'value': 'SGD'
 						},
 						{
-							"text": "NOK (Norwegian Krone)",
-							"value": "NOK"
+							'text': 'NOK (Norwegian Krone)',
+							'value': 'NOK'
 						},
 						{
-							"text": "MXN (Mexican Peso)",
-							"value": "MXN"
+							'text': 'MXN (Mexican Peso)',
+							'value': 'MXN'
 						},
 						{
-							"text": "INR (Indian Rupee)",
-							"value": "INR"
+							'text': 'INR (Indian Rupee)',
+							'value': 'INR'
 						},
 						{
-							"text": "RUB (Russian Ruble)",
-							"value": "RUB"
+							'text': 'RUB (Russian Ruble)',
+							'value': 'RUB'
 						},
 						{
-							"text": "ZAR (South African Rand)",
-							"value": "ZAR"
+							'text': 'ZAR (South African Rand)',
+							'value': 'ZAR'
 						},
 						{
-							"text": "TRY (Turkish Lira)",
-							"value": "TRY"
+							'text': 'TRY (Turkish Lira)',
+							'value': 'TRY'
 						},
 						{
-							"text": "BRL (Brazilian Real)",
-							"value": "BRL"
+							'text': 'BRL (Brazilian Real)',
+							'value': 'BRL'
 						},
 						{
-							"text": "TWD (New Taiwan Dollar)",
-							"value": "TWD"
+							'text': 'TWD (New Taiwan Dollar)',
+							'value': 'TWD'
 						},
 						{
-							"text": "DKK (Danish Krone)",
-							"value": "DKK"
+							'text': 'DKK (Danish Krone)',
+							'value': 'DKK'
 						},
 						{
-							"text": "PLN (Polish Zloty)",
-							"value": "PLN"
+							'text': 'PLN (Polish Zloty)',
+							'value': 'PLN'
 						},
 						{
-							"text": "THB (Thai Baht)",
-							"value": "THB"
+							'text': 'THB (Thai Baht)',
+							'value': 'THB'
 						},
 						{
-							"text": "IDR (Indonesian Rupiah)",
-							"value": "IDR"
+							'text': 'IDR (Indonesian Rupiah)',
+							'value': 'IDR'
 						},
 						{
-							"text": "HUF (Hungarian Forint)",
-							"value": "HUF"
+							'text': 'HUF (Hungarian Forint)',
+							'value': 'HUF'
 						},
 						{
-							"text": "CZK (Czech Koruna)",
-							"value": "CZK"
+							'text': 'CZK (Czech Koruna)',
+							'value': 'CZK'
 						},
 						{
-							"text": "ILS (Israeli Shekel)",
-							"value": "ILS"
+							'text': 'ILS (Israeli Shekel)',
+							'value': 'ILS'
 						},
 						{
-							"text": "CLP (Chilean Peso)",
-							"value": "CLP"
+							'text': 'CLP (Chilean Peso)',
+							'value': 'CLP'
 						},
 						{
-							"text": "PHP (Philippine Peso)",
-							"value": "PHP"
+							'text': 'PHP (Philippine Peso)',
+							'value': 'PHP'
 						},
 						{
-							"text": "AED (United Arab Emirates Dirham)",
-							"value": "AED"
+							'text': 'AED (United Arab Emirates Dirham)',
+							'value': 'AED'
 						},
 						{
-							"text": "COP (Colombian Peso)",
-							"value": "COP"
+							'text': 'COP (Colombian Peso)',
+							'value': 'COP'
 						},
 						{
-							"text": "SAR (Saudi Riyal)",
-							"value": "SAR"
+							'text': 'SAR (Saudi Riyal)',
+							'value': 'SAR'
 						},
 						{
-							"text": "MYR (Malaysian Ringgit)",
-							"value": "MYR"
+							'text': 'MYR (Malaysian Ringgit)',
+							'value': 'MYR'
 						},
 						{
-							"text": "RON (Romanian Leu)",
-							"value": "RON"
+							'text': 'RON (Romanian Leu)',
+							'value': 'RON'
 						},
 						{
-							"text": "VND (Vietnamese Dong)",
-							"value": "VND"
+							'text': 'VND (Vietnamese Dong)',
+							'value': 'VND'
 						},
 						{
-							"text": "EGP (Egyptian Pound)",
-							"value": "EGP"
+							'text': 'EGP (Egyptian Pound)',
+							'value': 'EGP'
 						},
 						{
-							"text": "BDT (Bangladeshi Taka)",
-							"value": "BDT"
+							'text': 'BDT (Bangladeshi Taka)',
+							'value': 'BDT'
 						},
 						{
-							"text": "PKR (Pakistani Rupee)",
-							"value": "PKR"
+							'text': 'PKR (Pakistani Rupee)',
+							'value': 'PKR'
 						},
 						{
-							"text": "NGN (Nigerian Naira)",
-							"value": "NGN"
+							'text': 'NGN (Nigerian Naira)',
+							'value': 'NGN'
 						},
 						{
-							"text": "ARS (Argentine Peso)",
-							"value": "ARS"
+							'text': 'ARS (Argentine Peso)',
+							'value': 'ARS'
 						},
 						{
-							"text": "HKD (Hong Kong Dollar)",
-							"value": "HKD"
+							'text': 'HKD (Hong Kong Dollar)',
+							'value': 'HKD'
 						},
 						{
-							"text": "QAR (Qatari Riyal)",
-							"value": "QAR"
+							'text': 'QAR (Qatari Riyal)',
+							'value': 'QAR'
 						},
 						{
-							"text": "KWD (Kuwaiti Dinar)",
-							"value": "KWD"
+							'text': 'KWD (Kuwaiti Dinar)',
+							'value': 'KWD'
 						}
 					],
 				},
@@ -223,8 +223,12 @@ export default {
 			type: 'string',
 			name: 'Prefix',
 			meta: {
-				interface: 'string',
 				width: 'half',
+				interface: 'system-input-translated-string',
+				options: {
+					label: 'prefix',
+					trim: false,
+				},
 			},
 		},
 		{
@@ -232,12 +236,14 @@ export default {
 			type: 'string',
 			name: 'Suffix',
 			meta: {
-				interface: 'string',
 				width: 'half',
+				interface: 'system-input-translated-string',
+				options: {
+					label: 'suffix',
+					trim: false,
+				},
 			},
 		},
 	],
-	types: ['integer', 'float', 'double', 'decimal'] 
-	// Couldn't get big integer to work.
-	// Not sure if it's because I'm testing using SQLite?
+	types: ['integer', 'bigInteger', 'float', 'double', 'decimal']
 };
