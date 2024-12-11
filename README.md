@@ -4,7 +4,7 @@ A Directus extension that displays a Number Flow component.
 Based off the incredible work of [Number Flow](https://github.com/barvian/number-flow) by [barvian](https://github.com/barvian).
 
 Screenshot:
-![screenshot](https://raw.githubusercontent.com/daltonsutton/directus-extension-number flow/main/screenshots/numberflow.gif)
+![screenshot](https://raw.githubusercontent.com/daltonsutton/directus-extension-numberflow/main/screenshots/numberflow.gif)
 
 ## Installation
 
