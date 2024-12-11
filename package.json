@@ -1,6 +1,6 @@
 {
 	"name": "directus-extension-numberflow-display",
-	"description": "A Directus extension that displays a NumberFlow component.",
+	"description": "A Directus extension that displays a Number Flow component.",
 	"author": {
 		"email": "dalton@sutton.io",
 		"name": "Dalton Sutton"
@@ -19,7 +19,7 @@
 	},
 	"homepage": "https://github.com/daltonsutton/directus-extension-numberflow-display",
 	"icon": "extension",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"keywords": [
 		"numberflow",
 		"directus",
